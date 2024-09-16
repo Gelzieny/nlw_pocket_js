@@ -52,15 +52,18 @@ O objetivo do evento é permitir que os desenvolvedores construam uma aplicaçã
   <img src="https://skillicons.dev/icons?i=git,nodejs,docker,vscode" />
 </a>
 
-### 🎲 Rodando o Back End (servidor)
-
+### Clone o repositório
 ```bash
 # Clone este repositório
 $ git clone <https://github.com/Gelzieny/nlw_pocket_js.git>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd nlw_pocket_js
+```
 
+### 🎲 Rodando o Back-End (servidor)
+
+```bash
 # Vá para a pasta server
 $ cd server
 
@@ -72,9 +75,29 @@ $ npm run dev:server
 
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333>
 ```
+### ✅ Rodando o Front-End (web)
 
+```bash
+# Vá para a pasta web
+$ cd web
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev
+
+# O servidor inciará na porta:3334 - acesse <http://localhost:3334>
+```
 
 # 📝 Licença
+
 <p align="center">
-Este projeto está sob a licença do MIT. Veja a <a href="https://github.com/Gelzieny/nlw_pocket_js/blob/main/LICENSE"> LICENÇA </a> para mais informações.
+Este projeto está sob a licença do MIT. Veja a <a href="https://github.com/Gelzieny/nlw_pocket_js/blob/main/LICENSE"> LICENÇA </a>  para mais informações.
+</p>
+
+# 🧑🏻‍💻 Autor
+
+<p align="center">
+Feito com ♥ por <a href="https://www.linkedin.com/in/gelzieny-r-martins-180551106/">Gelzieny R. Martins</a>  👋 Entre em contato!
 </p>
