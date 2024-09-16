@@ -33,6 +33,14 @@ O objetivo do evento é permitir que os desenvolvedores construam uma aplicaçã
 # Tecnologias Utilizadas
 <p align="justify">Este projeto utiliza um conjunto de tecnologias modernas para garantir uma aplicação eficiente e escalável, incluindo:</p>
 
+  * [Node.js](https://nodejs.org/en/) e [Fastify](https://fastify.dev/) para o backend
+  * [React.js](https://react.dev/) para a interface do usuário
+  * [PostgreSQL](https://www.postgresql.org/) como banco de dados
+  * [Docker](https://www.docker.com/) Docker para facilitar o ambiente de desenvolvimento e a gestão de containers
+  * [Zod](https://zod.dev/) Zod para validação de dados
+  * [Drizzle ORM](https://orm.drizzle.team/) Drizzle ORM para manipulação do banco de dados
+  * [React Query](https://community.revelo.com.br/react-query-um-guia-pratico/) e [React Hook Form](https://react-hook-form.com/) para gestão de estados e formulários no frontend
+
 
 # Como Executar o Projeto
 
