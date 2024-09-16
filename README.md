@@ -16,6 +16,7 @@
 
 
 ## 💻 Sobre o projeto
+
 <p align="justify">
 Este projeto foi desenvolvido durante o evento Next Level Week Pocket oferecido pela <a href="https://app.rocketseat.com.br/">Rocketseat</a>, como parte da edição in.Orbit. 
 O objetivo do evento é permitir que os desenvolvedores construam uma aplicação do zero em uma semana, aprendendo e aplicando novas tecnologias na prática.
@@ -73,6 +74,7 @@ O layout da aplicação está disponível no [Figma](https://www.figma.com/desig
 </a>
 
 ### Clone o repositório
+
 ```bash
 # Clone este repositório
 $ git clone <https://github.com/Gelzieny/nlw_pocket_js.git>
