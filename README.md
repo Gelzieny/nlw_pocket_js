@@ -34,12 +34,14 @@ O objetivo do evento é permitir que os desenvolvedores construam uma aplicaçã
 
 O layout da aplicação está disponível no [Figma](https://www.figma.com/design/0Hmz2mBHCHIDBnQW4XGraD/NLW-Pocket-JS-%E2%80%A2-in.orbit-(Community)-(Copy))
 
+### Insomina
 
 ## 🛠 Tecnologias
 
 <p align="justify">Este projeto utiliza um conjunto de tecnologias modernas para garantir uma aplicação eficiente e escalável, incluindo:</p>
 
   * [Node.js](https://nodejs.org/en/) e [Fastify](https://fastify.dev/) para o backend
+  * [Insomina](https://insomnia.rest/download) para teste de APIs
   * [React.js](https://react.dev/) para a interface do usuário
   * [PostgreSQL](https://www.postgresql.org/) como banco de dados
   * [Docker](https://www.docker.com/) Docker para facilitar o ambiente de desenvolvimento e a gestão de containers
