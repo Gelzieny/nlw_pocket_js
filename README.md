@@ -36,6 +36,18 @@ O layout da aplicação está disponível no [Figma](https://www.figma.com/desig
 
 ### Insomina
 
+### Web
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="Tela inicial" title="#TelaInicial" src="" width="400px">
+
+  <img alt="Cadastrar meta" title="#CadastrarMeta" src="" width="400px">
+
+  <img alt="Registrar dados" title="#RegistrarDados" src="" width="400px">
+  
+  <img alt="Lista de meta" title="#ListaMeta" src="" width="400px">
+</p>
+
 ## 🛠 Tecnologias
 
 <p align="justify">Este projeto utiliza um conjunto de tecnologias modernas para garantir uma aplicação eficiente e escalável, incluindo:</p>
