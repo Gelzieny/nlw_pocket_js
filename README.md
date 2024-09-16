@@ -90,6 +90,12 @@ $ cd server
 # Instale as dependências
 $ npm install
 
+# Configure as variáveis de ambiente criando um arquivo .env no diretório /server com o seguinte conteúdo:
+DATABASE_URL="postgresql://usuário:senha@host:porta/banco_de_dados"
+
+# Inicie os containers do Docker:
+$ docker compose up -d
+
 # Execute a aplicação em modo de desenvolvimento
 $ npm run dev:server
 
