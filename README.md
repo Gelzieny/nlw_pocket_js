@@ -105,7 +105,4 @@ Feito com ❤️ por Gelzieny R. Martins 👋🏽 [Entre em contato!](https://ww
 
 ## 📝 Licença
 
-<p align="center">
 Este projeto esta sobe a licença [MIT](./LICENSE).
-</p>
-
