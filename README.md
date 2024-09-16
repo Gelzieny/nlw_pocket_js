@@ -40,3 +40,24 @@ O objetivo do evento é permitir que os desenvolvedores construam uma aplicaçã
   *  [Node.js](https://nodejs.org/en/), 
   *  [Docker](https://www.docker.com/). 
   *  [VSCode](https://code.visualstudio.com/)
+
+### 🎲 Rodando o Back End (servidor)
+
+```bash
+# Clone este repositório
+$ git clone <https://github.com/Gelzieny/nlw_pocket_js.git>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd nlw_pocket_js
+
+# Vá para a pasta server
+$ cd server
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev:server
+
+# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+```
