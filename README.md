@@ -72,3 +72,9 @@ $ npm run dev:server
 
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333>
 ```
+
+
+# 📝 Licença
+<p align="center">
+Este projeto está sob a licença do MIT. Veja a <a href="https://github.com/Gelzieny/nlw_pocket_js/blob/main/LICENSE"> LICENÇA </a> para mais informações.
+</p>
