@@ -8,6 +8,7 @@
  <a href="#objetivo">Objetivo</a> •
  <a href="#descricao">Descrição</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#executar-projeto">Executar projeto</a> • 
  <a href="#contribuicao">Contribuição</a> • 
  <a href="#licenc-a">Licença</a> • 
  <a href="#autor">Autor</a>
@@ -28,3 +29,14 @@ O objetivo do evento é permitir que os desenvolvedores construam uma aplicaçã
   * Listar todas as metas cadastradas
   * Acompanhar o progresso semanal com um resumo de metas concluídas
   * Marcar metas como concluídas
+
+# Como Executar o Projeto
+
+### Pré-requisitos
+
+<p align="justify">Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:</p>
+
+  *  [Git](https://git-scm.com), 
+  *  [Node.js](https://nodejs.org/en/), 
+  *  [Docker](https://www.docker.com/). 
+  *  [VSCode](https://code.visualstudio.com/)
