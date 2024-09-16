@@ -41,7 +41,7 @@ O objetivo do evento é permitir que os desenvolvedores construam uma aplicaçã
 <p align="justify">Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:</p>
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,nodejs,Doker,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,nodejs,docker,vscode" />
 </a>
 
 ### 🎲 Rodando o Back End (servidor)
