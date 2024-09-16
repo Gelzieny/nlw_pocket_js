@@ -10,7 +10,6 @@
  <a href="#-layout">Layout</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-contribuidores">Contribuidores</a> • 
  <a href="#-autor">Autor</a> • 
  <a href="#user-content--licença">Licença</a>
 </p>
@@ -97,12 +96,14 @@ $ npm run dev
 # O servidor inciará na porta:3334 - acesse <http://localhost:3334>
 ```
 
+# 🧑🏻‍💻 Autor
+
+Feito com ❤️ por Gelzieny R. Martins 👋🏽 [Entre em contato!](https://www.linkedin.com/in/gelzieny-r-martins-180551106/)
+
+
 ## 📝 Licença
 
 <p align="center">
 Este projeto esta sobe a licença [MIT](./LICENSE).
 </p>
 
-# 🧑🏻‍💻 Autor
-
-Feito com ❤️ por Gelzieny R. Martins 👋🏽 [Entre em contato!](https://www.linkedin.com/in/gelzieny-r-martins-180551106/)
