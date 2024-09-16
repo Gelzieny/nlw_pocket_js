@@ -7,7 +7,7 @@
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#descricao">Descrição</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
+ <a href="#tecnologias">Tecnologias Utilizadas</a> • 
  <a href="#executar-projeto">Executar projeto</a> • 
  <a href="#contribuicao">Contribuição</a> • 
  <a href="#licenc-a">Licença</a> • 
@@ -30,16 +30,19 @@ O objetivo do evento é permitir que os desenvolvedores construam uma aplicaçã
   * Acompanhar o progresso semanal com um resumo de metas concluídas
   * Marcar metas como concluídas
 
+# Tecnologias Utilizadas
+<p align="justify">Este projeto utiliza um conjunto de tecnologias modernas para garantir uma aplicação eficiente e escalável, incluindo:</p>
+
+
 # Como Executar o Projeto
 
 ### Pré-requisitos
 
 <p align="justify">Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:</p>
 
-  *  [Git](https://git-scm.com), 
-  *  [Node.js](https://nodejs.org/en/), 
-  *  [Docker](https://www.docker.com/). 
-  *  [VSCode](https://code.visualstudio.com/)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,node,doker,vscode" />
+</a>
 
 ### 🎲 Rodando o Back End (servidor)
 
